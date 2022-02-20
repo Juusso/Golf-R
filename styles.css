@@ -1,0 +1,18 @@
+.title {
+    color:whitesmoke;
+    background-color: red;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+
+p {
+    background-color: blue;
+    color: whitesmoke;
+    font-size: 18px;
+}       
+
+button {
+    background-color: orange;
+    font-size: 18px;
+}
